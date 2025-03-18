@@ -1,2 +1,6 @@
-# repositorio_teste1
+# Apresentação
 Descreve as principais funções do GitHub
+
+## Objetivo
+
+## Principais funcionalidades
