@@ -1,6 +1,6 @@
 Faculade Uniesp 
 Curso: Ciência da Computação
-Disciplina: Tópicos Essencias em Programação
+Disciplina: Introdução a Programação
 Nome: Victor de Oliveira Gadelha
 
 Resposta da Lista de Exercício
@@ -9,4 +9,14 @@ Questão 01
 
 Questão 02
 
-Questão 03
+
+Questão 04
+
+
+Questão 05
+
+
+Questão 06
+
+
+Questão 10
